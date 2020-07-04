@@ -2,5 +2,4 @@
 - Dynamic Routes
 - Metadata
 - CSS Modules
-- Dynamic Routes
 - SSG / SSR
