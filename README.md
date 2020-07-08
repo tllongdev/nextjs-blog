@@ -5,4 +5,4 @@
 - CSS Modules
 - SSG / SSR
 - API Routes
-- Deployment to Vercel: https://nextjs-blog-orpin-two.vercel.app/
+- Deployment to Vercel: https://nextjs-blog.tllong.vercel.app/
