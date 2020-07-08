@@ -4,4 +4,5 @@
 - Metadata
 - CSS Modules
 - SSG / SSR
+- API Routes
 - Deployment to Vercel
