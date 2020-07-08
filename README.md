@@ -6,3 +6,4 @@
 - SSG / SSR
 - API Routes
 - Deployment with Vercel: https://nextjs-blog.tllong.vercel.app/
+- Converted to Typescript
